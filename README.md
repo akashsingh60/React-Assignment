@@ -1,4 +1,4 @@
-#output:
+# output:
 ![image](https://github.com/akashsingh60/React-Assignment/assets/105161832/e31ced79-86f1-4830-9b07-be0f87e72370)
 
 
